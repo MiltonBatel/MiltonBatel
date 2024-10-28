@@ -33,3 +33,5 @@ I'm well-versed in data structures, data management, and processing systems, alw
 
 I'm always open to connect and discuss data, technology, and innovation! Feel free to reach out and collaborate.
 
+https://www.linkedin.com/in/miltonbateldataengineer/
+
