@@ -25,7 +25,6 @@ I'm well-versed in data structures, data management, and processing systems, alw
 - ![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+) **Azure**
 - ![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+) **Oracle**
 - ![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+) **Data Pipeline**
-- ![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+) **Git**
 - ![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+) **Power BI**
 
 ---
